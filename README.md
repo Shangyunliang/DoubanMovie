@@ -9,7 +9,7 @@ An example based on React Native
 ## Set up
 1. **Clone the repo:**
 
-		$ git	clone https://github.com/Shangyunliang/DoubanMovie.git  
+		$ git clone https://github.com/Shangyunliang/DoubanMovie.git  
 		$ cd DoubanMovie
 	
 1. **Install dependencies:**
