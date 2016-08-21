@@ -5,6 +5,7 @@ An example based on React Native
 ![DoubanMovie icon](./images/1.png)
 ![DoubanMovie icon](./images/2.png)
 ![DoubanMovie icon](./images/3.png)
+![DoubanMovie icon](./images/5.png)
 
 ## Set up
 1. **Clone the repo:**
