@@ -1,6 +1,6 @@
 # DoubanMovie
 An example based on React Native
-本项目只是个人学习时候做的。大神可以不看。另找资料。
+由于受限制于接口，没有后台，只是自己学习时候的做的。
 
 
 ![DoubanMovie icon](./images/1.png)
